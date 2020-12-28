@@ -1,5 +1,5 @@
 ---
-layout: mmmm
+layout: default
 title: About blueface
 ---
 
