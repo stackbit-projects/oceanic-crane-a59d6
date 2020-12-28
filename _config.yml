@@ -1,0 +1,20 @@
+title: blueface
+description: A small and simple site I made to test out Jekyll.
+baseurl: ''
+url: ''
+github: 'http://github.com/tnguyen/blueface'
+highlighter: rouge
+markdown: kramdown
+permalink: '/post/:title/'
+paginate: 4
+gems:
+  - jekyll-paginate
+paginate_path: '/page:num'
+rss_path: /feed.xml
+navigation:
+  - text: About
+    url: /about/
+  - text: Archives
+    url: /archives/
+  - text: Tags
+    url: /tags/
